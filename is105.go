@@ -5,13 +5,14 @@ import (
 )
 func Glassquote(){
 	fmt.Println(quote.Glass())
+}
 	
-func Goquote()
+func Goquote(){
 	fmt.Println(quote.Go())
-	
-func Helloquote()
+}	
+func Helloquote(){
 	fmt.Println(quote.Hello())
-	
-func Optquote()
+}	
+func Optquote(){
 	fmt.Println(quote.Opt())
 }
