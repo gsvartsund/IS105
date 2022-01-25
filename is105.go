@@ -3,7 +3,7 @@ import (
 	"fmt"
 	"rsc.io/quote"
 )
-func Glassqutoe()
+func Glassquote()
 	fmt.Println(quote.Glass())
 	
 func Goquote()
